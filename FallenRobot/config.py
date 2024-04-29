@@ -9,20 +9,20 @@ class Config(object):
 
     DATABASE_URL = "postgres://bsatebmuxxtgdp:1af90c44e2514cc3172bf1af3501528841478d39a5efd132816a8e7366d96b2d@ec2-54-90-13-87.compute-1.amazonaws.com:5432/dbvpgskodfoi1l"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1002096806763)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = "-1002021260760"  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://nesirovq1997:qadir1997@cluster0.pavador.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://telegra.ph/file/7cbc16a9c922358dff2d9.jpg"
 
-    SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "Kayfina"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "7058332898:AAGjj8xEPoJpIRQCvkXT5iDfrQ9IKLhIYyI"  # Get bot token from @BotFather on Telegram
+    TOKEN = "5890868081:AAGuNeGAOz5A1DuEBQ8OqZE_Q1tJLqxOGo4"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "PTF3CDHXA2Q8"  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 6184936428  # User id of your telegram account (Must be integer)
+    OWNER_ID = 5663585448  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
