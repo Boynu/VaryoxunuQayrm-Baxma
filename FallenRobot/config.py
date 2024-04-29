@@ -2,8 +2,8 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 24066716
-    API_HASH = "09e30e6e0b1a4c71e43a055979c51b3b"
+    API_ID = 12210813
+    API_HASH = "e42eeae11a2f96bcfc5ec3b46a30adad"
 
     CASH_API_KEY = "UBL5Z9KSLQU7WJ41"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
